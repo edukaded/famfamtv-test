@@ -11,7 +11,7 @@ sub GetContent()
     ' request the content feed from the API
     xfer = CreateObject("roURLTransfer")
     xfer.SetCertificatesFile("common:/certs/ca-bundle.crt")
-    xfer.SetURL("https://jonathanbduval.com/roku/feeds/roku-developers-feed-v1.json")
+    xfer.SetURL("https://raw.githubusercontent.com/edukaded/famfamtv-test/main/components/feed.json")
     rsp = xfer.GetToString()
     rootChildren = []
     rows = {}

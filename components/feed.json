@@ -1,11 +1,11 @@
 {
 	"providerName": "Test Developers",
 	"language": "en-US",
-	"lastUpdated": "2020-03-15T02:01:00+02:00",
+	"lastUpdated": "2021-03-11T02:01:00+02:00",
 	"movies": [{
 			"longDescription": "Cops is a short comedy, starring Buster Keaton and featuring Joe Roberts, a star of Silent Hall of Fame. The film is full of hilarious moments and demonstrates Buster Keaton's extraordinary athletic abilities. Cops was added to the National Film Registry in 1997 as being deemed culturally, historically, or aesthetically significant",
 			"thumbnail": "https://archive.org/services/img/Cops1922",
-			"releaseDate": "2020-01-20",
+			"releaseDate": "1922-01-20",
 			"genres": [
 				"silent"
 			],
@@ -20,6 +20,30 @@
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://archive.org/download/Cops1922/Cops-v2.mp4",
+					"quality": "SD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Fatty has been dragged along to Coney Island by his wife who insists they spend their time together on the beach. Getting inspiration from a dog digging a hole in the sand, Fatty ditches his wife by burying himself in the sand then making a run for the amusement park as she searches for him.",
+			"thumbnail": "https://archive.org/services/img/1917ConeyIslandBusterKeaton",
+			"releaseDate": "1917-01-20",
+			"genres": [
+				"silent"
+			],
+			"tags": [
+				"comedy"
+			],
+			"id": "bkConeyIsland",
+			"shortDescription": "Coney Island (also known as Fatty at Coney Island) is a 1917 American silent short comedy film written and directed by Roscoe Fatty Arbuckle, and starring Arbuckle and Buster Keaton",
+			"title": "Coney Island",
+			"content": {
+				"duration": 19,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://archive.org/download/1917ConeyIslandBusterKeaton/1917%20Coney%20Island%20Buster%20Keaton.mp4",
 					"quality": "SD"
 				}],
 				"language": "en-us",
