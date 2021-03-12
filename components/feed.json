@@ -1,5 +1,5 @@
 {
-	"providerName": "Test Developers",
+	"providerName": "FamFam TV Test Developers",
 	"language": "en-US",
 	"lastUpdated": "2021-03-11T02:01:00+02:00",
 	"movies": [{
@@ -62,12 +62,12 @@
 			],
 			"id": "bkOneWeek",
 			"shortDescription": "One Week is a 1920 American short comedy film starring comedian Buster Keaton, the first film to be released made by Keaton on his own; Keaton had worked with Roscoe Fatty Arbuckle for a number of years. The film was written and directed by Keaton and Edward F. Cline, and runs for 19 minutes. Sybil Seely co-stars.",
-			"title": "Coney Island",
+			"title": "One Week",
 			"content": {
-				"duration": 26,
+				"duration": 23,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://archive.org/download/1917ConeyIslandBusterKeaton/1917%20Coney%20Island%20Buster%20Keaton.mp4",
+					"url": "https://archive.org/download/BusterKeatonsONEWEEK1920/Buster%20Keaton%27s%20ONE%20WEEK%20%281920%29.mp4",
 					"quality": "SD"
 				}],
 				"language": "en-us",
