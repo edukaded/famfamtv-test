@@ -40,7 +40,31 @@
 			"shortDescription": "Coney Island (also known as Fatty at Coney Island) is a 1917 American silent short comedy film written and directed by Roscoe Fatty Arbuckle, and starring Arbuckle and Buster Keaton",
 			"title": "Coney Island",
 			"content": {
-				"duration": 19,
+				"duration": 26,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://archive.org/download/1917ConeyIslandBusterKeaton/1917%20Coney%20Island%20Buster%20Keaton.mp4",
+					"quality": "SD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "One Week is a 1920 American short comedy film starring comedian Buster Keaton, the first film to be released made by Keaton on his own.",
+			"thumbnail": "https://archive.org/services/img/BusterKeatonsONEWEEK1920",
+			"releaseDate": "1920-01-20",
+			"genres": [
+				"silent"
+			],
+			"tags": [
+				"comedy"
+			],
+			"id": "bkOneWeek",
+			"shortDescription": "One Week is a 1920 American short comedy film starring comedian Buster Keaton, the first film to be released made by Keaton on his own; Keaton had worked with Roscoe Fatty Arbuckle for a number of years. The film was written and directed by Keaton and Edward F. Cline, and runs for 19 minutes. Sybil Seely co-stars.",
+			"title": "Coney Island",
+			"content": {
+				"duration": 26,
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://archive.org/download/1917ConeyIslandBusterKeaton/1917%20Coney%20Island%20Buster%20Keaton.mp4",
